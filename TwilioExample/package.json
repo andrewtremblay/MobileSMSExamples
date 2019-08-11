@@ -1,0 +1,14 @@
+{
+  "name": "twilioexample",
+  "version": "1.0.0",
+  "description": "example twilio client",
+  "main": "index.js",
+  "scripts": {
+    "msg": "node index.js"
+  },
+  "author": "andrewtremblay",
+  "license": "ISC",
+  "dependencies": {
+    "twilio": "^3.33.3"
+  }
+}
